@@ -1,0 +1,131 @@
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.exe
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.deps.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.runtimeconfig.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.pdb
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.ChapterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ChapterAPI.props
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChapterAPI.props
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChapterAPI.props
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\scopedcss\bundle\ChapterAPI.styles.css
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.CopyComplete
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\refint\ChapterAPI.dll
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.pdb
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Senai uc14\ChapterAPI\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ref\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\appsettings.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.exe
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.deps.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.runtimeconfig.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\ChapterAPI.pdb
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.AssemblyReference.cache
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.AssemblyInfoInputs.cache
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.AssemblyInfo.cs
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.CoreCompileInputs.cache
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.ChapterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ChapterAPI.props
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChapterAPI.props
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChapterAPI.props
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\scopedcss\bundle\ChapterAPI.styles.css
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.csproj.CopyComplete
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\refint\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.pdb
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.genruntimeconfig.cache
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ref\ChapterAPI.dll
+C:\PROJETOS-SENAI\ChapterAPI_UC14\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
